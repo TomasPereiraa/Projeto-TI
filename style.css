@@ -1,0 +1,49 @@
+#login{
+    width: 350px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.btn-cor{background-color: #242329;}
+
+#logout{
+    transform: translateY(20%);
+    margin: 0;
+}
+
+.centro{
+text-align: center;
+}
+
+#minilogo{
+    transform: translateY(20%);
+    margin: 0;
+}
+
+.fundobranco{
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.divTable
+    {
+        display:  table;
+        width:auto;
+        background-color:#eee;
+        border:1px solid  #666666;
+        border-spacing:5px;
+    }
+
+.divRow
+    {
+       display:table-row;
+       width:auto;
+    }
+
+.divCell
+    {
+        float:left;/*fix for  buggy browsers*/
+        display:table-column;
+        width:200px;
+        background-color:#ccc;
+    }
